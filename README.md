@@ -1,1 +1,1 @@
-# gtm-partner-analyzer
+# GetYourGuide - Advanced Analytics for Partners
