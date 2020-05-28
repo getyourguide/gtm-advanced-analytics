@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "GetYourGuide - Partner Advanced Analytics",
+  "displayName": "GetYourGuide - Advanced Analytics for Partners",
   "categories": ["AFFILIATE_MARKETING", "ADVERTISING", "ANALYTICS"],
   "brand": {
     "id": "brand_dummy",

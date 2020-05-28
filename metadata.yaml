@@ -1,5 +1,5 @@
 homepage: "https://www.getyourguide.com"
 documentation: "https://partner.getyourguide.com/en-us/c/frequently-asked-questions/about-widgets"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 75512fc7cb628b7deddf2cf0dc5837f5f3245962
     changeNotes: Initial release.
