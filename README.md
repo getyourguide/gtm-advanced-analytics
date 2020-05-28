@@ -1,0 +1,1 @@
+# gtm-partner-analyzer
