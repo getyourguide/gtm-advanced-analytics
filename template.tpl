@@ -51,7 +51,7 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 const injectScript = require('injectScript');
 const localStorage = require('localStorage');
 
-// Injects the partner analyzer script
+// Injects the Advanced Analytics script
 const url = 'https://widget.getyourguide.com/dist/pa.umd.production.min.js';
 injectScript(url, data.gtmOnSuccess, data.gtmOnFailure, url);
 
