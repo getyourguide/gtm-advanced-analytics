@@ -1,3 +1,1 @@
-# GetYourGuide - Advanced Analytics for Partners
-
-## How to install the script in Google Tag Manager
+# GetYourGuide - Analytics Code for Partners
